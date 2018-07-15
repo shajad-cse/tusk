@@ -3,5 +3,9 @@ Learning items
 Spring boot
 Git
 
+Spring boot with swagger
+Spring Batch
+
+
 Thanks you to GitHub
 Feature added in new development branch
